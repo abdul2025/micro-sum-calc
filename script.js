@@ -13,6 +13,6 @@ function calculateSum() {
 
 
     // Clear the input fields
-    document.getElementById('num1').value = '';
-    document.getElementById('num2').value = '';
+    document.getElementById('num1').value = null
+    document.getElementById('num2').value = null;
 }
